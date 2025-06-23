@@ -1,2 +1,4 @@
-# lesson_git
-Домашнє завдання із курсу DevOps / Git
+# Home lesson git repository
+## Only for study
+
+> Довгі звіти іноді набридають :)
